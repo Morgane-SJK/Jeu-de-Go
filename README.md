@@ -2,7 +2,7 @@
 
 **Date de réalisation :** Décembre 2019
 
-**Cadre du projet :** Cours "HCI and GUI Programming" à Griffith College en Faculté d’informatique durant mon semestre académique à Dublin
+**Cadre du projet :** Cours "HCI and GUI Programming" à Griffith College en Faculté d’informatique durant mon semestre académique à Dublin, réalisé en binôme avec Katell
 
 **Langage utilisé :** Python
 
@@ -14,5 +14,5 @@ J’ai créé une interface graphique permettant de jouer à ce jeu, en utilisan
 Le joueur qui commence possède les pierres noires. Il peut les placer à n’importe quelle intersection de la grille inoccupée à condition de respecter ces 2 règles :
 
 -	Règle du suicide : on ne peut pas placer une pierre de telle manière qu’après le coup elle n’ait plus aucune liberté.
--	
+
 -	Règle du KO : pour éviter qu'une situation ne se répète à l'infini, la règle du KO interdit de jouer un coup qui ramènerait le jeu dans une position déjà vue dans le courant de la partie.
