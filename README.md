@@ -16,3 +16,7 @@ Le joueur qui commence possède les pierres noires. Il peut les placer à n’im
 -	Règle du suicide : on ne peut pas placer une pierre de telle manière qu’après le coup elle n’ait plus aucune liberté.
 
 -	Règle du KO : pour éviter qu'une situation ne se répète à l'infini, la règle du KO interdit de jouer un coup qui ramènerait le jeu dans une position déjà vue dans le courant de la partie.
+
+<p align="center">
+  <kbd><img src="./images/Demo.png" width="700"></kbd>
+</p>
