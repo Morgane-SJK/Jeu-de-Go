@@ -1,5 +1,7 @@
 # Jeu-de-Go
 
+*GO Game with GUI*
+
 **Date de réalisation :** Décembre 2019
 
 **Cadre du projet :** Cours "HCI and GUI Programming" à Griffith College en Faculté d’informatique durant mon semestre académique à Dublin, réalisé en binôme avec Katell
